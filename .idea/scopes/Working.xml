@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Working" pattern="!file[LOCALjossite]:.idea//*&amp;&amp;!file:jossite.sock&amp;&amp;!file:jossite/__init__.py" />
+</component>
