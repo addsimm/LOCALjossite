@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="DigitalOcean" stopOnFirstError="true" overwriteAll="false" createEmptyFolders="true" notifyRemoteChanges="true">
+  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="DigitalOcean" stopOnFirstError="true" overwriteAll="false" createEmptyFolders="true" traceLevel="DETAILS" notifyRemoteChanges="true">
     <serverData>
       <paths name="DigitalOcean">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
